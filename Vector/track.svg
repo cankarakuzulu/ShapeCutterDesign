@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="track.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-331.84953"
+     inkscape:cy="1102.2148"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4528"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4522" />
+    <sodipodi:guide
+       position="10.583333,306.91668"
+       orientation="0,1"
+       id="guide4524"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4528"
+       transform="matrix(0.99999993,0,0,1.0042194,-3.294631e-5,-0.71729336)"
+       inkscape:export-xdpi="36.110001"
+       inkscape:export-ydpi="36.110001">
+      <rect
+         ry="0"
+         y="-188.32144"
+         x="-169.33331"
+         height="358.32144"
+         width="359.83331"
+         id="rect4518"
+         style="fill:#d7eef4;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-xdpi="36.110001"
+         inkscape:export-ydpi="36.110001"
+         inkscape:export-filename="E:\Shared\Dev\Repo\ShapeCutter\Assets\Visual\Textures\track2.png" />
+      <rect
+         y="-9.1607208"
+         x="-169.33333"
+         height="179.16072"
+         width="359.83337"
+         id="rect4520"
+         style="fill:#afdde9;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-xdpi="36.110001"
+         inkscape:export-ydpi="36.110001"
+         inkscape:export-filename="E:\Shared\Dev\Repo\ShapeCutter\Assets\Visual\Textures\track2.png" />
+      <rect
+         style="fill:#004455;fill-rule:nonzero;stroke:#164450;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4538"
+         width="5.2916679"
+         height="358.32141"
+         x="-169.33331"
+         y="-188.32143"
+         inkscape:export-xdpi="36.110001"
+         inkscape:export-ydpi="36.110001"
+         inkscape:export-filename="E:\Shared\Dev\Repo\ShapeCutter\Assets\Visual\Textures\track2.png" />
+      <rect
+         style="fill:#004455;fill-rule:nonzero;stroke:#164450;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         id="rect4538-8"
+         width="5.2916679"
+         height="358.32141"
+         x="185.20837"
+         y="-188.32141"
+         inkscape:export-xdpi="36.110001"
+         inkscape:export-ydpi="36.110001"
+         inkscape:export-filename="E:\Shared\Dev\Repo\ShapeCutter\Assets\Visual\Textures\track2.png" />
+      <rect
+         ry="0"
+         y="-188.32146"
+         x="285.75009"
+         height="358.32144"
+         width="359.83331"
+         id="rect4518-1"
+         style="fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-xdpi="36.110001"
+         inkscape:export-ydpi="36.110001"
+         inkscape:export-filename="E:\Shared\Dev\Repo\ShapeCutter\Assets\Visual\Textures\perfect2.png" />
+      <rect
+         y="-9.1607208"
+         x="285.75009"
+         height="179.16072"
+         width="359.83334"
+         id="rect4520-2"
+         style="fill:#000000;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-xdpi="36.110001"
+         inkscape:export-ydpi="36.110001"
+         inkscape:export-filename="E:\Shared\Dev\Repo\ShapeCutter\Assets\Visual\Textures\perfect2.png" />
+    </g>
+  </g>
+</svg>
